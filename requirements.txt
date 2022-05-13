@@ -1,5 +1,0 @@
-aiohttp
-aiojobs
-aiohttp_socks
-colorama
-discord.py
